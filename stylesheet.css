@@ -29,7 +29,7 @@ ul {
 	}
 
 li {
-	border-bottom: solid 1px #D3D3D3; /* create a thin white line
+	border-bottom: solid 1px blue; /* create a thin white line
 					   seperating the menu items */
 	background-color: #4ABDAC;
 	padding-left:3px; 
@@ -57,6 +57,13 @@ td, th {
 	border: 1px solid blue; /* put borders on the table cells */
 	text-align:left;
 	}
+p {
+	color: white;
+	font-family: arial, sans-serif;
+}
+hr {
+	border-color: blue;
+}
 nav > ul > li a:hover{
 
 }
