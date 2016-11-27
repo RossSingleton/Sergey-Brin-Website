@@ -61,6 +61,8 @@ h2 {
 	border-bottom: solid 1px blue;
 	font-weight: lighter;
 }
-.tableimg {
-	align-self: : right;
+.tableimg > img {
+	position: absolute;
+	right: 0px;
+	top: 100px;
 }
